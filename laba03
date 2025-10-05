@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Моя домашняя страница</title>
+</head>
+<body bgcolor="#CCCCCC" text="0000000" link="#000FF" vlink="#ff0000" alink="#000088">
+    <center><h1>Приветствую на моей домашней странице!</h1></center>
+    <center><h2>Надеюсь, Вам не будет скучно...</h2></center>
+    <b><i> Варя, Кристина, София, Лиза </i></b> 
+    Мы любим
+    <b> Комедии, играть в игры и посещать музыкальные мероприятия </b>
+    <b> рэп и котиков.</b>
+    <center>
+        <a href="shmeleva.varya.07@mail.ru">shmeleva.varya.07</a>
+    </center>
+</body>
+</html>
